@@ -1,8 +1,8 @@
-# router-exercise
+# Vue+iview动态路由渲染
 
 ## Project setup
 ```
-npm install
+npm install    
 ```
 
 ### Compiles and hot-reloads for development
